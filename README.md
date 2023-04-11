@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 👯 I’m looking to collaborate on **any awesome projects**
-- 🌱 I’m currently learning more about **blockchain**, and other **web frameworks**
+<!-- - 🌱 I’m currently learning more about **blockchain**, and other **web frameworks** -->
 - 📫 You can reach me at **sohshinghao@gmail.com**
 - ⚡ Check out my portfolio **www.sohshinghao.com**
 - 💬 Ask me about Mixed Reality 
