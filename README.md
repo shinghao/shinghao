@@ -3,7 +3,7 @@
 - 📫 You can reach me at **sohshinghao@gmail.com**
 - ⚡ Check out my portfolio **www.sohshinghao.com**
 - Contact me to **collaborate!**
-### Languages & Tools I'm currently using:hammer_and_wrench: :
+### :hammer_and_wrench: Languages & Tools I'm Currently Using:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;-->
