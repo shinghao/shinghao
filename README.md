@@ -1,9 +1,8 @@
 ### Hi there 👋
-- 👯 I’m looking to collaborate on **any cool project**
 - 🌱 I’m currently learning more about **functional programming**, and **web security** 
 - 📫 You can reach me at **sohshinghao@gmail.com**
 - ⚡ Check out my portfolio **www.sohshinghao.com**
-- 💬 Ask me about Mixed Reality 
+- Contact me to **collaborate!**
 ### Languages & Tools I'm currently using:hammer_and_wrench: :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
